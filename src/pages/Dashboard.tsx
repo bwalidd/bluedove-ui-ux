@@ -10,7 +10,7 @@ const DashboardPage: React.FC = () => {
         {/* Welcome Header */}
         <div>
           <h1 className="text-2xl font-bold text-white mb-1">Welcome back, Amine</h1>
-          <p className="text-gray-400">Here's what's happening with your cameras today.</p>
+          <p className="text-gray-400">Here's what's happening with your cameras today!</p>
         </div>
 
         {/* Stats Overview */}
